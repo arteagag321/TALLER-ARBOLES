@@ -1,5 +1,5 @@
 # TALLER-ARBOLES
-#GRUPO: Angelo Alexis Arteaga Barragan, Jeremy Sebastian Erazo Mendoza
+# GRUPO: Angelo Alexis Arteaga Barragan, Jeremy Sebastian Erazo Mendoza
 # Gestión de Árbol con Interfaz Gráfica 🌳
 
 ## **Descripción**
